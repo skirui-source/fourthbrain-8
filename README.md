@@ -4,6 +4,6 @@
 </p>
 
 # fourthbrain-8
-Tracks coursework and projects for Machine Learning Engineer program
+Tracks my coursework and projects for Machine Learning Engineer program
 
 
